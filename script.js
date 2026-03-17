@@ -1,1 +1,1 @@
-"script"
+"this is new script"
